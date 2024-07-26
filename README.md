@@ -7,5 +7,5 @@ IT-monitoring - AleksandrMihajlov SYS34
   
 **Задание 2**  
 ![alt text](https://github.com/AleksandrMihajlov/IT-monitoring/blob/main/2.png)  
-![alt text]()  
-![alt text]()
+![alt text](https://github.com/AleksandrMihajlov/IT-monitoring/blob/main/2.1.png)  
+![alt text](https://github.com/AleksandrMihajlov/IT-monitoring/blob/main/2.2.png)
